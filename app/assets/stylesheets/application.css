@@ -15,11 +15,11 @@
  */
 
 /* リセットCSS */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+/** {*/
+/*  margin: 0;*/
+/*  padding: 0;*/
+/*  box-sizing: border-box;*/
+/*}*/
 
 body {
   background-color: #fff;
@@ -32,4 +32,26 @@ body {
 
 p {
   margin: 33px;
+}
+
+a:visited {
+    color: #666;
+}
+
+th {
+  padding-bottom: 5px;
+}
+
+td {
+    padding-bottom: 7px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+label {
+    display: block;
+}
+
+div.field, div.actions {
+    margin-bottom: 10px;
 }
