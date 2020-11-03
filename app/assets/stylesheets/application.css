@@ -52,6 +52,6 @@ label {
     display: block;
 }
 
-div.field, div.actions {
+.field, .actions {
     margin-bottom: 10px;
 }
