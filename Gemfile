@@ -62,3 +62,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # crontab管理用
 gem 'whenever', require: false
+
+gem 'jquery-rails'
